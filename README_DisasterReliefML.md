@@ -78,7 +78,7 @@ disaster-response-classification/
 
 ## Notebooks Description
 
-### 1. `01_EDA_Data_Cleaning.ipynb` (CapstoneProject_EDA_Environmental.ipynb)
+### 1. `01_EDA_Data_Cleaning.ipynb` 
 **Purpose**: Data cleaning and exploratory data analysis
 
 **Contents**:
@@ -95,7 +95,7 @@ disaster-response-classification/
 - Preprocessor pipeline (saved as pickle)
 - EDA visualizations
 
-### 2. `02_Model_Training.ipynb` (CapstoneProject_Model_Training_With_Optimization.ipynb)
+### 2. `02_Model_Training.ipynb`
 **Purpose**: Model design, building, training, and comparison
 
 **Contents**:
@@ -122,7 +122,7 @@ disaster-response-classification/
 - Per-label performance metrics
 - Model comparison visualizations
 
-### 3. `03_Model_Optimization.ipynb` (CapstoneProject_Additional_Model_Optimization.ipynb)
+### 3. `03_Model_Optimization.ipynb` and `04_Further_Model_Optimization_and_Analysis`
 **Purpose**: Advanced optimization and model analysis
 
 **Contents**:
